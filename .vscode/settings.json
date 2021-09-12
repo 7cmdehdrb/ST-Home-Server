@@ -1,6 +1,7 @@
   
 {
     "editor.formatOnSave": true,
+    "prettier.enable": true,
     "prettier.semi": true,
     "prettier.javascriptEnable": ["javascript"],
     "prettier.printWidth": 200,
